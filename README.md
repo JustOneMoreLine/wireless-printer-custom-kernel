@@ -22,6 +22,7 @@ Ver 0.1:
 		- Tablets
 		- Touchscreens
 		- Miscellaneous devices
+
 Ver 0.2:
 - base 0.1
 - Device Drivers
