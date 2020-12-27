@@ -16,13 +16,16 @@ A collection of custom linux i made to optimize a wireless printer app with CUPS
 - linux 5.10.1 (base)	: (11.164, 7.477)
 - 0.1			: (11.558,7.319)
 - 0.2			: (12.577, 7.561)
+- 0.3			: (14.075, 8.566)
 - 0.1a			: (14.260, 9.078)
 
 # Size
 - linux 5.10.1 (base)	: 786981441
 - 0.1			: 785786260
 - 0.2			: 782406199
+- 0.3			: 760366747
 - 0.1a			: 779816546
+
 # Modules Remove List
 Ver 0.1:
 - Device Drivers
