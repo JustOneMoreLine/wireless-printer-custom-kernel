@@ -32,3 +32,18 @@ Ver 0.2:
 		- Event debugging
 		- RM*
 	
+Ver 0.1a:
+- Device Drivers
+	- Input device support
+		- Mice
+		- Joysticks
+		- Tablets
+		- Touchscreens
+		- Miscellaneous devices
+		- *all <> modules set too M*
+	- PCCard
+- General Setup
+	- Configure standard kernel features (expert users)
+		- BUG() support
+		- Enable PC-Speaker support
+	- Kernel compression mode -> set to ZSTD
