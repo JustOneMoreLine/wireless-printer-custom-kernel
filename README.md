@@ -2,8 +2,7 @@
 A collection of custom linux i made to optimize a wireless printer app with CUPS
 
 # Quick Description
-0.1	: The first try, remove Input devices
-
+0.1	: The first try, remove Input devices\n
 0.2	: Second iter
 
 0.3	: Third iter, far worst
