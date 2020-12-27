@@ -3,9 +3,13 @@ A collection of custom linux i made to optimize a wireless printer app with CUPS
 
 # Quick Description
 0.1	: The first try, remove Input devices
+
 0.2	: Second iter
+
 0.3	: Third iter, far worst
+
 0.1a	: remove Input devices and PCCard, compress in ZSTD
+
 0.1b	: same as 0.1a, but compress in gzip
 
 # Performance (kernel, userspace)
@@ -55,6 +59,7 @@ Ver 0.1a:
 		- BUG() support
 		- Enable PC-Speaker support
 	- Kernel compression mode -> set to ZSTD
+
 Ver 0.1b:
 - Device Drivers
 	- Input device support
